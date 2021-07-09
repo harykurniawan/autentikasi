@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960614916766",
+    "firebase_url": "https://uas-mobile-5247e-default-rtdb.firebaseio.com",
+    "project_id": "uas-mobile-5247e",
+    "storage_bucket": "uas-mobile-5247e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960614916766:android:17eead7ae56c70aebed18f",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960614916766-h1ck5kneqss3rl6fvinq2qoj9opf6d2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6l2lK8vzaN7ZWdFqPHDh_STxaqmOWBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960614916766-h1ck5kneqss3rl6fvinq2qoj9opf6d2o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960614916766-0bgidf89tao2e7e0m4sq2rd21rgtue4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
